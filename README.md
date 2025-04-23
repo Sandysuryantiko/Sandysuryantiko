@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Sandysuryantiko
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there 👋 I'm a junior tech enthusiast with a mix of skills in **IT Support**, **UI Design**, and **Web Development**.
 
-<!---
-Sandysuryantiko/Sandysuryantiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 I enjoy solving tech problems, designing clean interfaces, and turning concepts into working code.  
+🌱 Currently learning modern tools and frameworks to level up my dev game.  
+🤝 Open to collaborations, learning, or just tech talk!  
+🎨 Pixel-perfect design meets functional code – that’s my jam.  
+
+Let's connect and build something cool! 🚀
